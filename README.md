@@ -24,8 +24,8 @@ Make sure you have the following software installed on your machine:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/R_Portfolio.git
-cd R_Portfolio
+git clone https://github.com/itzaRinna/R_Portfolio.git
+cd source
 ```
 
 2. **Install dependencies:**
@@ -75,15 +75,6 @@ R_Portfolio/
 ├── vite.config.ts
 └── README.md
 ```
-
-- **public/**: Contains static files such as HTML, images, and other assets.
-- **src/**: Contains the main source code for the application.
-  - **assets/**: Contains images, icons, and other static assets.
-  - **components/**: Contains reusable React components.
-  - **pages/**: Contains the different pages of the portfolio (e.g., Home, About, Projects, Contact).
-  - **styles/**: Contains CSS or styled-components for styling the application.
-  - **App.tsx**: The main App component.
-  - **main.tsx**: The entry point of the application.
 
 ## License
 

@@ -62,11 +62,10 @@ R_Portfolio/
 │   ├── index.html
 │   └── ...
 ├── src/
-│   ├── assets/
+│   ├── assets/img
 │   ├── components/
-│   ├── pages/
-│   ├── styles/
 │   ├── App.tsx
+│   ├── index.css
 │   ├── main.tsx
 │   └── ...
 ├── .gitignore

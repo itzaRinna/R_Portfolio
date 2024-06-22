@@ -78,6 +78,25 @@ img {
   width: 100%;
 }
 
+.nav__toggle {
+  color: var();
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.nav__menu {
+  display: none;
+}
+
+.nav__menu.show {
+  display: block;
+}
+
+.nav__link.active {
+  color: red;
+}
+
+
 @media screen and (min-width: 768px) {
   .nav__toggle {
     display: none;

@@ -3,7 +3,7 @@ const Nav = () => {
     <header className="w-full fixed top-0 left-0 z-50 block">
          <nav className="h-12 flex justify-around items-center font-semibold mx-4">
                 <div>
-                    <a href="#" className="text-xl glow-on-hover">Le Convervoir.Co</a>
+                    <a href="#" className="glow-on-hover md:text-lg lg:text-xl sm:text-xs">Le Convervoir.Co</a>
                 </div>
 
                 <div className="nav__menu" id="nav-menu">
